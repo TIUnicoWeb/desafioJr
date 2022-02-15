@@ -1,4 +1,4 @@
-# Teste prático - Dev PHP
+# Teste prático - Dev Jr
 
 ----------
 
@@ -39,7 +39,7 @@ Pode ser escrito em inglês ou português e você pode utilizar qualquer ferrame
 - Conhecer um pouco de suas habilidades e sua maneira de trabalho.
 - Você deve utilizar o seguinte stack:
 	- HTML, CSS, JS	
-	- PHP
+	- PHP, Javascript ou C++
 	- Banco de Dados (Qualquer)
 
 ## O que avaliamos
@@ -48,6 +48,7 @@ Pode ser escrito em inglês ou português e você pode utilizar qualquer ferrame
 - Simplicidade
 - Lógica de programação
 - Conceitos de orientação a objetos
+- Git Flow
 
 ### Observações
 - Sinta-se à vontade para resolver da forma que achar melhor. Se precisar criar vários arquivos ou fazer tudo em um só, é uma decisão sua. O principal ponto a ser avaliado aqui é a sua capacidade de entender um problema e propor uma solução. 
@@ -58,9 +59,17 @@ Pode ser escrito em inglês ou português e você pode utilizar qualquer ferrame
 - Seja criativo  
 - Nos diga o que achou do teste
 
+## Material de apoio
+- https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf
+- https://javascript.info/hello-world
+- https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch
+- https://expressjs.com/pt-br/starter/hello-world.html
+- https://www.phpprogressivo.net/2019/01/Como-Programar-PHP-Ola-Mundo-Hello-World.html
+
+
 ## Entrega
->**Você pode enviar a sua prova via email para rh@pixelhouse.com.br**
-**com o título [Teste Estágio DEV SOUPOP]**
+>Criar e subir para o reposítorio(https://github.com/TIUnicoWeb/desafioJr.git) um branch com seu nome com o código desenvolvido para resolver o problema e scripts para criação da estrutura do banco de dados.
+>Também é enviar a sua prova via email para guilher.chaves@grupounico.com com o título [Teste Estágio DEV JR] e seu nome.
 
 ### Boa Sorte, que a força esteja com você!! ;)
 

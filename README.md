@@ -68,8 +68,8 @@ Pode ser escrito em inglês ou português e você pode utilizar qualquer ferrame
 
 
 ## Entrega
->Criar e subir para o reposítorio(https://github.com/TIUnicoWeb/desafioJr.git) uma branch com seu nome e com o código desenvolvido para resolver o teste e os scripts para criação da estrutura do banco de dados.
->Também é possível enviar a sua prova via email para guilherme.chaves@grupounico.com com o título [Teste Estágio DEV JR] e seu nome.
+> - Criar e subir para o reposítorio(https://github.com/TIUnicoWeb/desafioJr.git) uma branch com seu nome e com o código desenvolvido para resolver o teste e os scripts para criação da estrutura do banco de dados.
+> - Também é possível enviar o seu teste via e-mail para guilherme.chaves@grupounico.com com o título [Teste DEV JR] e seu nome.
 
 ### Boa Sorte, que a força esteja com você!! ;)
 

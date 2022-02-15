@@ -39,7 +39,7 @@ Pode ser escrito em inglês ou português e você pode utilizar qualquer ferrame
 - Conhecer um pouco de suas habilidades e sua maneira de trabalho.
 - Você deve utilizar o seguinte stack:
 	- HTML, CSS, JS	
-	- PHP, Javascript ou C++
+	- PHP, Javascript ou C#
 	- Banco de Dados (Qualquer)
 
 ## O que avaliamos
